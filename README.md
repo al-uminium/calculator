@@ -1,8 +1,8 @@
-# calculator
-
 ## Calculator Project for The Odin Project
 It's 99% functional!
 Does everything a simple calculator does. Until you break it. 
+Live site: https://al-uminium.github.io/calculator/
+
 
 Features to add:
 - [ ] Memory function, to store previous functions
